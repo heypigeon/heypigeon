@@ -6,22 +6,85 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-06T09:40:59.000Z</updated>
+  <updated>2019-09-20T17:48:43.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>heypigeon</name>
+    <name>hello</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Ping Pong Town</title>
+    <link href="http://yoursite.com/2020/05/05/pingPongTown/"/>
+    <id>http://yoursite.com/2020/05/05/pingPongTown/</id>
+    <published>2020-05-05T19:55:37.000Z</published>
+    <updated>2019-09-20T17:48:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Ping Pong Town is a free and open-source community app deesigned &amp; developed by small team at SPICED Academy Bootcamp. It is a web-based application build with React, Google Maps and node.js. Current version is successfuly reach “working prototype” status.</p><a id="more"></a><p><img src="https://github.com/heypigeon/pingpongtown/blob/master/wiki-files/Desktop-Mockup-LandingPage.png?raw=true" alt="Ping Pong Town Landing Page overview"></p><h1 id="Functionality"><a href="#Functionality" class="headerlink" title="Functionality"></a>Functionality</h1><h3 id="Use-Cases"><a href="#Use-Cases" class="headerlink" title="Use Cases"></a>Use Cases</h3><blockquote><ul><li>Find public ping pong tables around the city</li><li>Check the availability of the table; join or check into the table</li><li>Add new spots with exacts location, image and description</li><li>Find about about ping-pong events around me</li><li>Participate in events, contests, collect points and be highest in the ranking!</li><li>Communicate with others to meet people and have fun with them</li></ul></blockquote><p><img src="https://github.com/heypigeon/pingpongtown/blob/master/wiki-files//Mobile-Wireframes-Overview.png?raw=true" alt="Ping Pong Town - Wireframes Overview"></p><h3 id="MVP"><a href="#MVP" class="headerlink" title="MVP"></a>MVP</h3><blockquote><ul><li>User profiles</li><li>Interactive map with check in funtionality</li><li>Gallery page and data base with a list of known ping pong tables</li><li>Club page connect with the user profile with events list and score board</li></ul></blockquote><h3 id="Clickable-prototype"><a href="#Clickable-prototype" class="headerlink" title="Clickable prototype"></a>Clickable prototype</h3><iframe style="border:none" widht="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMgXIK9L7llX0THX6mF3UL7JL%2FpingPongTown%3Fnode-id%3D87%253A0%26viewport%3D291%252C337%252C0.1349519044160843%26scaling%3Dscale-down" allowfullscreen></iframe><h1 id="Workflow"><a href="#Workflow" class="headerlink" title="Workflow"></a>Workflow</h1><h1 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://github.com/heypigeon/pingpongtown" target="_blank" rel="noopener">PingPong Town Repo</a></p><h1 id="Collaboration-Retrospectives"><a href="#Collaboration-Retrospectives" class="headerlink" title="Collaboration - Retrospectives"></a>Collaboration - Retrospectives</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Ping Pong Town is a free and open-source community app deesigned &amp;amp; developed by small team at SPICED Academy Bootcamp. It is a web-based application build with React, Google Maps and node.js. Current version is successfuly reach “working prototype” status.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="project" scheme="http://yoursite.com/tags/project/"/>
+    
+  </entry>
+  
+  <entry>
     <title>asteroidos.org</title>
     <link href="http://yoursite.com/2017/09/26/asteroidWebsite/"/>
     <id>http://yoursite.com/2017/09/26/asteroidWebsite/</id>
     <published>2017-09-26T19:55:37.000Z</published>
-    <updated>2019-09-06T09:40:59.000Z</updated>
+    <updated>2019-09-06T14:50:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>The good product needs a good website. Especially a hack product that delivers completely new services to the user.<br>After a few months of work spent on improving and developing new features for the asteroidOS operating system and just before<br>the alpha release the need for a new website, with great usr experience was bigger than ever!</p><a id="more"></a><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="hljs-string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="DOCUMENTATION"><a href="#DOCUMENTATION" class="headerlink" title="DOCUMENTATION"></a>DOCUMENTATION</h3><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h1 id="Quick-Start-1"><a href="#Quick-Start-1" class="headerlink" title="Quick Start"></a>Quick Start</h1><h1 id="Quick-Start-2"><a href="#Quick-Start-2" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>sefhfkhk</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The good product needs a good website. Especially a hack product that delivers completely new services to the user.&lt;br&gt;After a few months of work spent on improving and developing new features for the asteroidOS operating system and just before&lt;br&gt;the alpha release the need for a new website, with great usr experience was bigger than ever!&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="project" scheme="http://yoursite.com/tags/project/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>asteroidOS</title>
+    <link href="http://yoursite.com/2017/09/26/asteroidos/"/>
+    <id>http://yoursite.com/2017/09/26/asteroidos/</id>
+    <published>2017-09-26T19:55:37.000Z</published>
+    <updated>2019-09-06T14:47:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="hljs-string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="DOCUMENTATION"><a href="#DOCUMENTATION" class="headerlink" title="DOCUMENTATION"></a>DOCUMENTATION</h3><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h1 id="Quick-Start-1"><a href="#Quick-Start-1" class="headerlink" title="Quick Start"></a>Quick Start</h1><h1 id="Quick-Start-2"><a href="#Quick-Start-2" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>sefhfkhk</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="project" scheme="http://yoursite.com/tags/project/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>voice Name - never again hear your name wrong!</title>
+    <link href="http://yoursite.com/2017/09/26/voiceName/"/>
+    <id>http://yoursite.com/2017/09/26/voiceName/</id>
+    <published>2017-09-26T19:55:37.000Z</published>
+    <updated>2019-09-20T15:21:08.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="hljs-string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="DOCUMENTATION"><a href="#DOCUMENTATION" class="headerlink" title="DOCUMENTATION"></a>DOCUMENTATION</h3><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h1 id="Quick-Start-1"><a href="#Quick-Start-1" class="headerlink" title="Quick Start"></a>Quick Start</h1><h1 id="Quick-Start-2"><a href="#Quick-Start-2" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>sefhfkhk</p>]]></content>
     
@@ -42,7 +105,7 @@
     <link href="http://yoursite.com/2016/07/26/pigeonPizza/"/>
     <id>http://yoursite.com/2016/07/26/pigeonPizza/</id>
     <published>2016-07-26T19:55:37.000Z</published>
-    <updated>2019-09-06T13:34:09.000Z</updated>
+    <updated>2019-09-06T14:22:35.000Z</updated>
     
     <content type="html"><![CDATA[<p>Lorem ipsum</p><a id="more"></a><h1 id="The-newest-project"><a href="#The-newest-project" class="headerlink" title="The newest project"></a>The newest project</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote><p>More info:</p><div class="video-container"><iframe src="//www.youtube.com/embed/v=7toSikYGFNM" frameborder="0" allowfullscreen></iframe></div><p></p><h3 id="Run-run-lessie-run"><a href="#Run-run-lessie-run" class="headerlink" title="Run run lessie run"></a>Run run lessie run</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h1 id="The-newest-project-2"><a href="#The-newest-project-2" class="headerlink" title="The newest project 2"></a>The newest project 2</h1><h1 id="The-newest-project-3"><a href="#The-newest-project-3" class="headerlink" title="The newest project 3"></a>The newest project 3</h1>]]></content>
     
@@ -103,27 +166,6 @@
   </entry>
   
   <entry>
-    <title>Ping Pong Town @ Spiced</title>
-    <link href="http://yoursite.com/2016/07/26/pingPongTown/"/>
-    <id>http://yoursite.com/2016/07/26/pingPongTown/</id>
-    <published>2016-07-26T19:55:37.000Z</published>
-    <updated>2019-09-06T12:59:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Lorem ipsum</p><a id="more"></a><h1 id="The-newest-project"><a href="#The-newest-project" class="headerlink" title="The newest project"></a>The newest project</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote><p>More info:</p><div class="video-container"><iframe src="//www.youtube.com/embed/v=7toSikYGFNM" frameborder="0" allowfullscreen></iframe></div><p></p><h3 id="Run-run-lessie-run"><a href="#Run-run-lessie-run" class="headerlink" title="Run run lessie run"></a>Run run lessie run</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h1 id="The-newest-project-2"><a href="#The-newest-project-2" class="headerlink" title="The newest project 2"></a>The newest project 2</h1><h1 id="The-newest-project-3"><a href="#The-newest-project-3" class="headerlink" title="The newest project 3"></a>The newest project 3</h1>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Lorem ipsum&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="project" scheme="http://yoursite.com/tags/project/"/>
-    
-  </entry>
-  
-  <entry>
     <title>verduroBox</title>
     <link href="http://yoursite.com/2015/01/26/verduroBox/"/>
     <id>http://yoursite.com/2015/01/26/verduroBox/</id>
@@ -145,11 +187,11 @@
   </entry>
   
   <entry>
-    <title>AsteroidOS</title>
-    <link href="http://yoursite.com/2015/01/26/asteroidOS0/"/>
-    <id>http://yoursite.com/2015/01/26/asteroidOS0/</id>
+    <title>viffie - virtual office for remote work</title>
+    <link href="http://yoursite.com/2015/01/26/viffie/"/>
+    <id>http://yoursite.com/2015/01/26/viffie/</id>
     <published>2015-01-26T20:55:37.000Z</published>
-    <updated>2019-09-06T09:40:25.000Z</updated>
+    <updated>2019-09-06T14:46:49.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="hljs-string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="DOCUMENTATION"><a href="#DOCUMENTATION" class="headerlink" title="DOCUMENTATION"></a>DOCUMENTATION</h3><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h1 id="Quick-Start-1"><a href="#Quick-Start-1" class="headerlink" title="Quick Start"></a>Quick Start</h1><h1 id="Quick-Start-2"><a href="#Quick-Start-2" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>sefhfkhk</p>]]></content>
     
@@ -166,11 +208,11 @@
   </entry>
   
   <entry>
-    <title>AsteroidOS</title>
-    <link href="http://yoursite.com/2015/01/26/asteroidOS00/"/>
-    <id>http://yoursite.com/2015/01/26/asteroidOS00/</id>
+    <title>dot it!</title>
+    <link href="http://yoursite.com/2015/01/26/dotit/"/>
+    <id>http://yoursite.com/2015/01/26/dotit/</id>
     <published>2015-01-26T20:55:37.000Z</published>
-    <updated>2019-09-06T09:43:14.000Z</updated>
+    <updated>2019-09-06T14:46:27.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="hljs-string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="DOCUMENTATION"><a href="#DOCUMENTATION" class="headerlink" title="DOCUMENTATION"></a>DOCUMENTATION</h3><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h1 id="Quick-Start-1"><a href="#Quick-Start-1" class="headerlink" title="Quick Start"></a>Quick Start</h1><h1 id="Quick-Start-2"><a href="#Quick-Start-2" class="headerlink" title="Quick Start"></a>Quick Start</h1><p>sefhfkhk</p>]]></content>
     
